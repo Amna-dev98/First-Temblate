@@ -36,6 +36,7 @@ body {
     color: #fff;
     overflow: hidden;
 }
+.header .navbar h2 {color: #fff;}
 .header .navbar h2 span {color: #2ecc71;}
 .header .navbar ul {
     list-style: none;
